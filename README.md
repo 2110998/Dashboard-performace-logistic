@@ -3,7 +3,9 @@
 Análise de dados corporativa desenvolvida no Power BI integrada a uma base de dados em nuvem, focada no monitoramento de prazos de entrega (SLA) e volumetria por região.
 
 ## 📊 O Dashboard
-*(Substitua esta linha pela imagem/print do seu dashboard completo com tema escuro)*
+
+<img width="931" height="510" alt="Dashboard-log" src="https://github.com/user-attachments/assets/5253a00c-7817-458a-b4c3-848a945b208e" />
+
 
 ---
 

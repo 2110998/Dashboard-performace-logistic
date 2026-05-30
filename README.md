@@ -4,8 +4,7 @@ Análise de dados corporativa desenvolvida no Power BI integrada a uma base de d
 
 ## 📊 O Dashboard
 
-<img width="931" height="510" alt="Dashboard-log" src="https://github.com/user-attachments/assets/5253a00c-7817-458a-b4c3-848a945b208e" />
-
+<img width="961" height="509" alt="Dashboard-log 1" src="https://github.com/user-attachments/assets/c3c4e28e-9157-4426-8203-d5daade3d840" />
 
 ---
 
